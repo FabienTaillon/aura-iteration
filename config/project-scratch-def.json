@@ -1,0 +1,12 @@
+{
+    "orgName": "Aura",
+    "edition": "Developer",
+    "country": "US",
+    "language": "en",
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false
+        }
+    }
+}
